@@ -3,7 +3,7 @@ description: "Programming for the man who has nothing."
 author:
   name: "T450"
   email: ""
-  url: "https://github.com/T-450"
+  url: ""
 
 baseurl: /blog
 source: .
