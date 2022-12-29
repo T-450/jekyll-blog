@@ -6,7 +6,6 @@ author:
   url: "https://github.com/T-450"
 
 baseurl: /blog
-remote_theme: ashishchaudhary.in/hacker-blog
 source: .
 destination: ./_site
 permalink: /:title
