@@ -1,0 +1,45 @@
+title: Dirty Flag | Blog
+description: "Programming for the man who has nothing."
+author:
+  name: "T450"
+  email: ""
+  url: "https://github.com/T-450"
+
+baseurl: /blog
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 5
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "T450"
+year : "2022"
+
+# title: [The title of your blog]
+# description: [A short description of your blog's purpose]
+# author:
+  # name: [Your name]
+  # email: [Your email address]
+  # url: [URL of your website]
+
+# baseurl: [The base url for this blog.]
+
+# paginate: [Number of posts in one paginated section (default: 3)]
+# owner: [Your name]
+# year: [Current Year]
