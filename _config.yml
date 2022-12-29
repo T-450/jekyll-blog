@@ -5,7 +5,9 @@ author:
   email: ""
   url: "https://github.com/T-450"
 
-baseurl: ""
+domain: t-450.github.io
+url: https://t-450.github.io
+baseurl: "/jekyll-blog"
 source: .
 destination: ./_site
 permalink: /:title
