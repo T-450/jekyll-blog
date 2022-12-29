@@ -3,8 +3,8 @@
   <channel>
     <title>Dirty Flag | Blog</title>
     <description>Programming for the man who has nothing.</description>
-    <link>http://localhost:8000</link>
-    <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>T450</name>
       <email></email>
@@ -29,9 +29,9 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 29 Dec 2022 00:00:00 -0300</pubDate>
-        <link>http://localhost:8000//Weekly-Readings-1</link>
-        <link href="http://localhost:8000/Weekly-Readings-1"/>
-        <guid isPermaLink="true">http://localhost:8000/Weekly-Readings-1</guid>
+        <link>http://localhost:4000//Weekly-Readings-1</link>
+        <link href="http://localhost:4000/Weekly-Readings-1"/>
+        <guid isPermaLink="true">http://localhost:4000/Weekly-Readings-1</guid>
       </item>
     
       <item>
@@ -201,9 +201,9 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 06 Jan 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:8000//Yet-Another-Sample-Page</link>
-        <link href="http://localhost:8000/Yet-Another-Sample-Page"/>
-        <guid isPermaLink="true">http://localhost:8000/Yet-Another-Sample-Page</guid>
+        <link>http://localhost:4000//Yet-Another-Sample-Page</link>
+        <link href="http://localhost:4000/Yet-Another-Sample-Page"/>
+        <guid isPermaLink="true">http://localhost:4000/Yet-Another-Sample-Page</guid>
       </item>
     
       <item>
@@ -373,9 +373,9 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 11 Dec 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:8000//One-More-Sample-Page</link>
-        <link href="http://localhost:8000/One-More-Sample-Page"/>
-        <guid isPermaLink="true">http://localhost:8000/One-More-Sample-Page</guid>
+        <link>http://localhost:4000//One-More-Sample-Page</link>
+        <link href="http://localhost:4000/One-More-Sample-Page"/>
+        <guid isPermaLink="true">http://localhost:4000/One-More-Sample-Page</guid>
       </item>
     
       <item>
@@ -545,9 +545,9 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 10 Dec 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:8000//Another-Sample-Page</link>
-        <link href="http://localhost:8000/Another-Sample-Page"/>
-        <guid isPermaLink="true">http://localhost:8000/Another-Sample-Page</guid>
+        <link>http://localhost:4000//Another-Sample-Page</link>
+        <link href="http://localhost:4000/Another-Sample-Page"/>
+        <guid isPermaLink="true">http://localhost:4000/Another-Sample-Page</guid>
       </item>
     
   </channel>
