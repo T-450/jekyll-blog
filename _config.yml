@@ -3,9 +3,9 @@ description: "Programming for the man who has nothing."
 author:
   name: "T450"
   email: ""
-  url: ""
+  url: "https://github.com/T-450"
 
-baseurl: /blog
+baseurl: ""
 source: .
 destination: ./_site
 permalink: /:title
