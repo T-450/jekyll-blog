@@ -11,6 +11,18 @@ published: false
 
 - [AI assisted learning: Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/)
 
+- [NET Annotated Monthly | March 2023](https://blog.jetbrains.com/dotnet/2023/03/08/net-annotated-monthly-march-2023/)
+
+- [Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https://khalidabuhakmeh.com/generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)
+
+- [Creating and downloading zip files with ASP.NET Core](https://blog.elmah.io/creating-and-downloading-zip-files-with-asp-net-core/)
+
+- [What's the point of async/await in an ASP.NET Core application?](https://blog.codingmilitia.com/2022/05/30/whats-the-point-of-async-await-in-an-aspnetcore-application/)
+
+- [ Can artificial intelligence ever be sentient?](https://www.bbc.com/reel/video/p0f73vlw/can-artificial-intelligence-ever-be-sentient-)
+
+- [Localizing ASP.NET Applications](https://www.jetbrains.com/dotnet/guide/tutorials/localization/aspnet/)
+
 #### Videos
 
 [Make Your ASP.NET Core API Controllers Incredibly Simple](https://www.youtube.com/watch?v=AVA2mKG4WOc&t=566s)
