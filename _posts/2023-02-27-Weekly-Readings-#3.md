@@ -21,6 +21,8 @@ published: false
 
 - [ Can artificial intelligence ever be sentient?](https://www.bbc.com/reel/video/p0f73vlw/can-artificial-intelligence-ever-be-sentient-)
 
+- [Localizing ASP.NET Applications](https://www.jetbrains.com/dotnet/guide/tutorials/localization/aspnet/)
+
 #### Videos
 
 [Make Your ASP.NET Core API Controllers Incredibly Simple](https://www.youtube.com/watch?v=AVA2mKG4WOc&t=566s)
