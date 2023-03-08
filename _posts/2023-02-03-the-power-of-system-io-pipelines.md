@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Power of .Net Core System.IO.Pipelines"
-published: false
+published: true
 ---
 
 <!-- Generate a C# class using the .Net Core library System.IO.Pipelines to process and parse CSV files using SOLID and DRY principles:
