@@ -13,7 +13,7 @@ published: false
 
 - [NET Annotated Monthly | March 2023](https://blog.jetbrains.com/dotnet/2023/03/08/net-annotated-monthly-march-2023/)
 
-[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https://khalidabuhakmeh.com/generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)
+- [Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https://khalidabuhakmeh.com/generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)
 
 - [Creating and downloading zip files with ASP.NET Core](https://blog.elmah.io/creating-and-downloading-zip-files-with-asp-net-core/)
 
